@@ -6,7 +6,7 @@ const colors = [
 	"#ff4c4c",
 	"#ffcc00"
 ];
-const letters = "HAPPY NEW YEAR";
+const letters = "HAPPY NEW YEAR 2025";
 let letterIndex = 0;
 
 function getRandomLetter() {
